@@ -6,3 +6,7 @@ cypress/screenshots
 package-lock.json
 
 .DS_Store
+
+articlesOriginal.spec.js
+articlesPegandoToken.spec.js
+obtendotoken.spec.js

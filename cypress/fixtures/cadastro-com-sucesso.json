@@ -1,0 +1,9 @@
+{
+    "user": {
+        "email": "chapter51234893@mail.com",
+        "username": "chapter51234893",
+        "bio": null,
+        "image": "https://realworld-temp-api.herokuapp.com/images/smiley-cyrus.jpeg",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImNoYXB0ZXI1MTIzNDg5M0BtYWlsLmNvbSIsInVzZXJuYW1lIjoiY2hhcHRlcjUxMjM0ODkzIiwiYmlvIjpudWxsLCJpbWFnZSI6Imh0dHBzOi8vcmVhbHdvcmxkLXRlbXAtYXBpLmhlcm9rdWFwcC5jb20vaW1hZ2VzL3NtaWxleS1jeXJ1cy5qcGVnIiwiaWF0IjoxNjM0Njg0ODA5LCJleHAiOjE2Mzk4Njg4MDl9.6YjEIerEFXCRZe7DdY1hYiEF1JEe2tX8eKCzkDlA-RU"
+    }
+}
